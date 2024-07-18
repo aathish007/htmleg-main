@@ -79,6 +79,10 @@
         </tbody>
     </table>
 
+##Output:
+![image](https://github.com/user-attachments/assets/ed515f32-0091-458c-9474-07c0cd46e98a)
+
+
 </body>
 </html>
 ```
